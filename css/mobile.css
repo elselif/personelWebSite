@@ -3,14 +3,15 @@
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     overflow: hidden;
-    height: 90px;
-
-}
-
-#training .items{
+    height: 80px;
+  }
+  
+  #training .items {
     flex-direction: column;
-
-}
-#training .items .item {
+  }
+  #training .items .item {
     width: 100%;
-}
+  }
+  .courses .course {
+    flex-direction: column;
+  }
